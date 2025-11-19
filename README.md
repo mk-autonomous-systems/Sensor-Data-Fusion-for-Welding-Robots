@@ -14,7 +14,7 @@ This repository serves as a public dataset showcasing the results of sensor data
 
 
 ## Disclaimer
-This repository does not include code from the implementation phase of the thesis. It is solely focused on providing the input and output datasets for research and industrial purposes.
+This repository does not include code from the implementation phase of the thesis.
 
 For inquiries or further information, please contact:  
 
